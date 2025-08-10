@@ -1,0 +1,19 @@
+.success{
+    font-style: italic;
+    color: green;
+    background-color: grey;
+    border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error{
+    font-style: italic;
+    color: red;
+    background-color: grey;
+    border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
